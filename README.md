@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrajkumar1&label=Profile%20views&color=0e75b6&style=flat" alt="iamrajkumar1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrajkumar1" alt="iamrajkumar1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ll_rajkumarr_ll" target="blank"><img src="https://img.shields.io/twitter/follow/ll_rajkumarr_ll?logo=twitter&style=for-the-badge" alt="ll_rajkumarr_ll" /></a> </p>
 
 - 🔭 I’m currently working on **My Skills**
@@ -32,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrajkumar1&show_icons=true&locale=en&layout=compact" alt="iamrajkumar1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajkumar1&show_icons=true&locale=en" alt="iamrajkumar1" /></p>
-

@@ -31,6 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajkumar1&show_icons=true&locale=en" alt="iamrajkumar1" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrajkumar1&theme=react&show_icons=true&locale=en&layout=compact"alt="iamrajkumar1" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajkumar1&theme=react&show_icons=true&locale=en"alt="iamrajkumar1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajkumar1"&theme=react alt="iamrajkumar1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajkumar1&theme=react" alt="iamrajkumar1" /></p>
                                                                                                                                              
 [![iamrajkumar1's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamrajkumar1&theme=react-dark)](https://github.com/iamrajkumar1/github-readme-activity-graph)

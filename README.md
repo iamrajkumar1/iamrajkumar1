@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **My Skills**
 
-- 🌱 I’m currently learning: **Front-end Web Development**
+- 🌱 I’m currently learning: **Web Development**
 
 - 📫 How to reach me **rajkrram09@gmail.com**
 
